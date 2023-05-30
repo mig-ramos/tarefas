@@ -44,3 +44,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 npx create-next-app@latest tarefas
 ### Autenticação com o Google
 yarn add next-auth
+### Instalando react-icons:
+yarn add react-icons
