@@ -46,3 +46,5 @@ npx create-next-app@latest tarefas
 yarn add next-auth
 ### Instalando react-icons:
 yarn add react-icons
+### Instalar Firebase
+yarn add firebase
